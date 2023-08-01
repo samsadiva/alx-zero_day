@@ -1,2 +1,1 @@
-#!/bin/bash echo echo "\nALX"
-#!/bin/bash echo echo "ALX"
+#!/bin/bash \n echo "ALX"
